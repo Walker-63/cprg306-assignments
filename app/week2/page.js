@@ -1,5 +1,5 @@
 import StudentInfo from "/app/StudentInfo";
-
+/* random comment*/
 export default function Page(){
     return(
         <main>
